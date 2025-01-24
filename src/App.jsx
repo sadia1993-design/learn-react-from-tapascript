@@ -1,13 +1,11 @@
-import Basic from "./components/Basic";
+import Cars from "./components/Cars";
 
 function App() {
-  
-
   return (
     <>
-      <Basic />
-      </>
-  )
+      <Cars />
+    </>
+  );
 }
 
-export default App
+export default App;
