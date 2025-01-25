@@ -49,7 +49,5 @@ npm run dev
 ## Vercel Deployed Link of the development app
 **[Learn React From TapaScript](https://learn-react-from-tapascript.vercel.app/)**
 
-``` 
-**[Learn React From TapaScript](https://learn-react-from-tapascript.vercel.app/)**
-```
+
 
