@@ -42,6 +42,10 @@ npm run dev
 
 ![tapaScript Cars](./cars.png)
 
+## Component Hierchy Diagram
+
+![ Car app hierchy diagram ](./component_hierchy_diagram.drawio.png)
+
 ## React Dev Tools Screenshot
 
 ![ React Dev Tool ](./react_dev_tool.jpg)
