@@ -17,3 +17,24 @@ To run this project locally, follow these steps:
 git clone https://github.com/sadia1993-design/learn-react-from-tapascript.git
 ```
 
+2. Navigate to the project directory:
+
+``` 
+cd learn-react-from-tapascript
+```
+
+3. Install dependencies in package json file:
+
+``` 
+npm install
+```
+
+4. Start the development server:
+
+``` 
+npm run dev
+```
+
+5. Open the application in your browser at http://localhost:5173 .
+
+
