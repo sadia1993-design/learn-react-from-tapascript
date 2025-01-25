@@ -7,8 +7,8 @@ const CarLists = () => {
     <>
       <div className="grid grid-cols-3 gap-4">
         {
-          cars.map( (carItem, index) =>{
-           return <CarBox key={index} car={carItem} />            
+          cars.map( (carItem) =>{
+           return <CarBox key={carItem.id} car={carItem} />            
           })
         }
         

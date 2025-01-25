@@ -42,5 +42,13 @@ npm run dev
 
 ![tapaScript Cars](./cars.png)
 
+## React Dev Tools Screenshot
 
+![ React Dev Tool ](./react_dev_tool.jpg)
+
+## Vercel Deployed Link of the development app
+
+``` 
+https://learn-react-from-tapascript.vercel.app/
+```
 
