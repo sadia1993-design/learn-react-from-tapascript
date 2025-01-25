@@ -1,8 +1,17 @@
-# React + Vite
+# tapaScript Cars
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple web application for showcasing cars, built with a focus on filtering and displaying premium and non-premium cars. 
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive Design: Ensures compatibility with various screen sizes.
+- Card-Based Layout: Cars are displayed in an easy-to-read card format.
+
+## How to run the project
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository**  
+
+> - git clone https://github.com/sadia1993-design/learn-react-from-tapascript.git
+

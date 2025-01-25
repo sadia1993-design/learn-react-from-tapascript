@@ -23,7 +23,7 @@ const CarBox = ({car} ) => {
 CarBox.propTypes = {
   
   car: PropTypes.shape({
-    title: PropTypes.string.isRequired,
+    title: PropTypes.number.isRequired,
     brand: PropTypes.string.isRequired,
     year: PropTypes.number.isRequired,
     price: PropTypes.number.isRequired,
