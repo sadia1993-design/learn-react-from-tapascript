@@ -50,5 +50,6 @@ npm run dev
 
 ``` 
 https://learn-react-from-tapascript.vercel.app/
+[Go to Installation](#installation)
 ```
 
