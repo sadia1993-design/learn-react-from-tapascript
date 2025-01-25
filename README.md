@@ -38,3 +38,9 @@ npm run dev
 5. Open the application in your browser at http://localhost:5173 .
 
 
+## The screenshot of the UX design diagram
+
+![tapaScript Cars](./cars.png)
+
+
+
