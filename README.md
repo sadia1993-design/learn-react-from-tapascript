@@ -50,7 +50,7 @@ npm run dev
 
 ``` 
 
-** [Learn React From TapaScript](https://learn-react-from-tapascript.vercel.app/) **
+**[Learn React From TapaScript](https://learn-react-from-tapascript.vercel.app/)**
 
 ```
 
