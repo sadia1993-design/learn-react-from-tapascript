@@ -13,5 +13,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**  
 
-``` git clone https://github.com/sadia1993-design/learn-react-from-tapascript.git ```
+``` 
+git clone https://github.com/sadia1993-design/learn-react-from-tapascript.git
+```
 
